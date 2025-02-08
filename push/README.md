@@ -8,12 +8,12 @@ You can place the script in `/usr/local/bin` so you can run it from anywhere wit
 
 Move the script to /usr/local/bin:
 ```bash
-sudo mv git-push /usr/local/bin
+mv push.sh /usr/local/bin/push
 ```
 
 Make the script executable:
 ```bash
-sudo chmod +x /usr/local/bin/git-push
+sudo chmod +x /usr/local/bin/push
 ```
 
 Now you can run the script from anywhere:
